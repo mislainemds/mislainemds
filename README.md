@@ -10,7 +10,7 @@ Em certo momento me foi apresentada a trybe, uma escola comprometida em ensinar 
   <ul>
     <li>:woman_technologist: Estudante focada no curso de Desenvolvimento Web</li>
     <li>:women_wrestling: Gosto de Treinar Muay Thai</li>
-    <li>:volleyball: Curto muito jogar vôlei, mesmo que o foco se a diversão com os amigos😂</li>
+    <li>:volleyball: Curto muito jogar vôlei, mesmo que o foco seja a diversão com os amigos😂</li>
     <li>:film_projector: Filmes e series são essenciais no descanso</li>
     <li>:brain: Pensar e entender que a vida é um processo constante de aprendizados e mudanças</li>
   </ul>
