@@ -31,4 +31,10 @@ Em certo momento me foi apresentada a trybe, uma escola comprometida em ensinar 
 </div>
 
 <h2 align="center"><strong> GitHub Stats </strong> 
+  
+<div>
+  <a href="https://github.com/mislainemds/" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mislainemds&show_icons=true&include_all_commits=true&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mislainemds&layout=compact&theme=dracula" />
+</div>
  
