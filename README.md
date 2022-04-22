@@ -4,7 +4,7 @@
   Eu sou a <strong>Mislaine Marinho</strong>, formada em Psicologia, atualmente estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc</a>🚀!
 </div>
 <div>
-Em certo momento me foi apresentada a trybe, uma escola comprometida em ensinar programação do zero, e essa oportunidade por mais antagonica que pudesse ser fez meus olhos brilhar, ainda no momento do desafio pratico para entrar no curso tendo quase zero contato com estudos na area de tecnologia, despertei para um novo caminho de aprendizados. A programação tem sido um desafio do qual não me arrependo, e que pretendo seguir ultrapassando cada barreira, mesmo me custando longas horas do dia e da noite 😅. Gosto de como esse novo ambiente me propõe outras diversas formas de pensar e resolver problemas.</div>
+Em certo momento me foi apresentada a trybe, uma escola comprometida em ensinar programação do zero, e essa oportunidade por mais desfiadora que pudesse ser despertou algo em mim, ainda no momento do desafio prático para entrar no curso, tendo quase zero contato com estudos na area de tecnologia, despertei para um novo caminho de aprendizados. A programação tem sido um desafio do qual não me arrependo, e que pretendo seguir ultrapassando cada barreira, mesmo me custando longas horas do dia e da noite 😅. Gosto de como esse novo ambiente me propõe outras diversas formas de pensar e resolver problemas.</div>
   
 <h3><strong>Interesses pessoais</strong></h3>
   <ul>
